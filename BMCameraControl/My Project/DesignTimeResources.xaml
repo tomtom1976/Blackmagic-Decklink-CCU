@@ -1,0 +1,12 @@
+﻿<ResourceDictionary
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+	<ResourceDictionary.MergedDictionaries>
+		<ResourceDictionary Source="/BMCameraControl;component/Monotone.xaml"/>
+		<ResourceDictionary Source="/BMCameraControl;component/Monotone.MahApps.xaml"/>
+		<ResourceDictionary Source="/BMCameraControl;component/Monotone.ExtendedWPFToolkit.xaml"/>
+		<ResourceDictionary Source="/BMCameraControl;component/Monotone.Colors.xaml"/>
+		<ResourceDictionary Source="/BMCameraControl;component/Monotone.Brushes.xaml"/>
+	</ResourceDictionary.MergedDictionaries>
+	<!-- Hier werden Einträge für Ressourcenverzeichnisse definiert. -->
+</ResourceDictionary>
